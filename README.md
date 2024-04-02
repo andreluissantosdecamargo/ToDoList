@@ -1,4 +1,4 @@
-### To-do List
+### 📝 To-do List
 Esta é uma aplicação de lista de tarefas (to-do list) desenvolvida em HTML, CSS e JavaScript.
 
 ### Funcionalidades
@@ -26,4 +26,4 @@ Esta é uma aplicação de lista de tarefas (to-do list) desenvolvida em HTML, C
 - Utiliza a biblioteca Font Awesome para ícones de botões, adicionando uma estética moderna ao aplicativo.
 
 ### Créditos
-Este aplicativo foi desenvolvido por André Luis ou @andree.zxs.
+Este aplicativo foi desenvolvido por André Luis (@andree.zxs). 🚀
